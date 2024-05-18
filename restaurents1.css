@@ -1,0 +1,27 @@
+@charset "utf-8";
+.container-fluidr1 {
+    background-image: url(images/pexels-igor-starkov-791810.jpg);
+    background-size: cover;
+}
+.container-fluidr1 p {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: italic;
+    font-size: 70px;
+    text-align: center;
+    color: #FCFCFC;
+    text-shadow: 10px 20px 3px #0A0C20;
+    font-weight: normal;
+}
+.container-fluidr2 {
+    font-size: x-large;
+    background-color: #FFFFFF;
+}
+.container-fluidr3 {
+    background-color: #FFFFFF;
+}
+
+.container-fluidr2 p font {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.body{
+	background: #e4e9f7;}

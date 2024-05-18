@@ -1,0 +1,26 @@
+@charset "utf-8";
+.row .col-lg-6 br {
+}
+.container-fluid .row .col-lg-6 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: right;
+}
+body {
+    background-image: url(images/pexels-eberhard-grossgasteiger-2310713.jpg);
+    background-size: cover;
+}
+.container-fluid p img {
+
+}
+.body{
+	background: #e4e9f7;}
+p font i {
+    text-shadow: 5px 5px 8px #000000;
+    font-family: Chiller;
+    font-weight: bold;
+    font-size: 100px;
+    color: #005F1B;
+    font-variant: small-caps;
+}
+.row .col-lg-6.col-xl-8 p {
+}

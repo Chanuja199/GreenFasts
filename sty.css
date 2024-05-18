@@ -1,0 +1,20 @@
+@charset "utf-8";
+body {
+    background-image: url(images/pexels-michelle-riach-995743-fotor-2023101214211.jpg);
+    background-size: cover;
+}
+.container-fluid .container .card.text-center.col-md-4 {
+    border-radius: 25px;
+    text-align: center;
+    visibility: visible;
+    background-image: url(images/bgg.jpeg), -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(244,66,66,1.00) 100%);
+    background-image: url(images/bgg.jpeg), -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(244,66,66,1.00) 100%);
+    background-image: url(images/bgg.jpeg), -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(244,66,66,1.00) 100%);
+    background-image: url(images/bgg.jpeg), linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(244,66,66,1.00) 100%);
+    background-size: auto auto;
+}
+.container-fluid .container .n {
+    background-color: #A2A2A2;
+}
+.body{
+	background: #e4e9f7;}
